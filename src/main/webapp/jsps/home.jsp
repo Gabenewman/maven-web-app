@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies the palce to be learning</h1>
+<h1 align="center">Landmark Technologies the palce to be learning consistently</h1>
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
